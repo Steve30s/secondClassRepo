@@ -9,3 +9,4 @@ git push origin master
 git pull 
 
 adding more commands ... 
+git add -A -> it adds all the changes from my local repository. 
